@@ -1,0 +1,4 @@
+[build]
+  # index.html is committed at the repo root, so no build step is required.
+  command = ""
+  publish = "."
